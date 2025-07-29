@@ -1,0 +1,8 @@
+int a = 100
+
+2 type prog lang:
+1)statically typed: c,cpp,java : 
+    we ahve to define data type of variable...
+2)dynamically type:
+    we dont have to define data type of variable... compiler
+    python,js,...
