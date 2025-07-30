@@ -6,3 +6,74 @@ int a = 100
 2)dynamically type:
     we dont have to define data type of variable... compiler
     python,js,...
+
+
+1 byte -8 bits
+
+2 bytes 32768  32767
+2 bytes =- 16 bits
+
+ 15
+2
+ 31
+2
+
+basic Data types in cpp
+
+data type     size      
+int            4 bytes
+char           1
+bool           1              true | false -- true==1 false ==0
+float          4           deci..
+double         8
+void           0
+
+modified data type
+
+short int      2
+unsigned int   4
+long int       4 to 8
+long long int  8
+
+other data types
+enum,auto,class,struct...
+
+variable naming rules:
+1st char should not be digit
+only _ allowd in sp.. char
+no white space are allowd
+--------------------------------
+
+OOPS:
+
+oops main 4 pillars:
+1) encapsulation
+    defination : bundling data and methods that operate on that data within a single unit or class.
+    example: class
+    use: data hiding, abstraction
+
+    class:
+    ------
+    defination: a blueprint for creating objects, encapsulating data and methods.
+              : class is collection of data members and member functions. 
+
+    object:
+    --------
+    defination: an instance of a class, representing a specific entity with its own state and behavior.
+              : object is instance | entity | identity  of class.          
+
+    class       object
+    veh           car
+    hospitals    doctor,patient
+    fruits             manago          
+
+2) inheritance
+3) polymorphism
+4) abstraction
+
+
+
+
+red      blue      green
+cap                phone 
+bike           
