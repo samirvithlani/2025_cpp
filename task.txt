@@ -12,3 +12,29 @@ if user is insrting price or quantity in negative then display error message
 
 get data from user in main function
 and after that display the data in main function
+
+
+
+create 4 functions in class named :
+add,sub,mul,div 
+eg int add (no1,no2){
+
+        return no1 + no2;
+}
+
+
+main(){
+
+
+    //menu using switvvch case
+
+    enter 1 for add... 2...3...4..
+
+    switch(choice){
+
+        case 1:
+            calc.add(100,20);
+        break;
+    }
+
+}
