@@ -79,3 +79,23 @@ cap                phone
 bike           
 
 
+
+void withsraw(); defination
+
+void withdraw(){
+
+    //body // implment body...
+}
+
+
+
+
+void withdraw(a){}
+void deposit(){}
+
+
+void main(){
+
+
+    withdraw(100) //calling part
+}
