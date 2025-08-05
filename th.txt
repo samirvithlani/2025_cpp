@@ -99,3 +99,23 @@ void main(){
 
     withdraw(100) //calling part
 }
+
+constructor:
+defination: const is special function which has same name as class name
+1)const does not have return type
+2)const can have parameters | arguments
+3)const is automatically called when an object of class is created
+
+use: to initialize object of class
+    : to load data into object
+
+    to initialize data members of class when an object is created.
+
+type of constructor:
+1) default constructor: no parameters
+2) parameterized constructor: has parameters
+3) copy constructor: used to create a new object as a copy of an existing object.
+
+
+one class must have one constructor.
+if we dont define any constructor then compiler will create a default constructor for us.
