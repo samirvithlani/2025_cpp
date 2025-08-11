@@ -119,3 +119,15 @@ type of constructor:
 
 one class must have one constructor.
 if we dont define any constructor then compiler will create a default constructor for us.
+
+
+inheritance:
+child class can use prop of parent class this process called inheritance
+but vise versa is not possible.
+reuse of code
+type of inheritance:
+1) single inheritance: one parent one child
+2) multiple inheritance: one child many parent
+3) multilevel inheritance: one parent many child a-->b-->c-->d
+4) hierarchical inheritance: one parent many child
+5) hybrid inheritance: combination of multiple inheritance and multilevel inheritance
