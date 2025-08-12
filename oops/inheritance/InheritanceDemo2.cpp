@@ -39,8 +39,6 @@ class Ahmedabad: public India, public Gujarat{
     }
 };
 
-
-
 int main(){
 
     Ahmedabad a;

@@ -142,3 +142,12 @@ paretnt class --> child classs ---> sub child [most parent]
 
 A  --> b[a] -->x   --> c []
 
+
+task:
+class watch : has time function, and call function
+class phone : has time function, and message function
+class smartDevice
+display time and and do call and do message using smartDevisce
+
+
+
