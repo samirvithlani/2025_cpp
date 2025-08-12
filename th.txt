@@ -131,3 +131,14 @@ type of inheritance:
 3) multilevel inheritance: one parent many child a-->b-->c-->d
 4) hierarchical inheritance: one parent many child
 5) hybrid inheritance: combination of multiple inheritance and multilevel inheritance
+
+
+Parent class ---> child --> sub Child class
+
+
+Electr: --> Laptop --> Gaming Laptop
+
+paretnt class --> child classs ---> sub child [most parent]
+
+A  --> b[a] -->x   --> c []
+
