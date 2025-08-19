@@ -149,5 +149,14 @@ class phone : has time function, and message function
 class smartDevice
 display time and and do call and do message using smartDevisce
 
+polymorphism:
+polymore means many for of the function
 
+2 type of poly:
+
+compile time / static binding :function overloading , operator overloading
+run time poly / dynamic binding: function overriding
+ 
+overloading:
+same name of function but with diff arguments:
 
