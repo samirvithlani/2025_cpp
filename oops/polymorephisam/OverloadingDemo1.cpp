@@ -23,6 +23,13 @@ class Shape{
             cout<<"\n area of square = "<<area;
             //return area;
         }
+        
+        // int getArea(int h){
+        //     cout<<"\n area function called for square!!";
+        //     int area = h*h;
+        //     cout<<"\n area of square = "<<area;
+        //     return area;
+        // }
         void getArea(int h,int w){
             cout<<"\n area function called for traingle";
             int area = 0.5 * h *w;
