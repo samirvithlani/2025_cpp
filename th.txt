@@ -158,5 +158,24 @@ compile time / static binding :function overloading , operator overloading
 run time poly / dynamic binding: function overriding
  
 overloading:
+function
 same name of function but with diff arguments:
+operator overloading..
+unery operator: 1 oprand
+binery operator:2 oprand
+
+rules:
+1)only existing operator can overloading
+2)some of operator can not overload:
+    1):: scope res...
+    2). member access
+    3).* member pointer access
+    4)sizeof operaotr  int a[]={1,2,3,4,5}
+    5)?: ternery op..
+3)overloaded operators must have at least one user define data type:
+      example: 100 + obj
+4)can not change below points
+    1)operaotr precedence
+     2)no of operand             
+
 
