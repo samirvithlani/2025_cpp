@@ -179,3 +179,45 @@ rules:
      2)no of operand             
 
 
+Method overriding:
+same method of parent class created in child class called method overriding
+
+AHmedabad : royal : HO  -- Parent
+
+    teachJava(){
+        java 10 ch...
+    }
+gngar: Royal Branch: Child class
+    teachJava(){
+
+        java 10 ch... 2 exam
+    }
+
+
+--------------------------------
+
+jio -->Airtel
+--------------
+TRAI class : call() -->parent
+
+child
+jioClass --> call --JioCall
+Airtel ---> AirtelCall
+
+
+polimorphic object:
+
+
+
+
+FACEBOOK:
+
+smily function:
+
+outsource -- >10 compnay
+Vishwes -->l
+augh
+SmileMeta
+Smiling
+Emoji
+smile
