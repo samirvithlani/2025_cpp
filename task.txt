@@ -44,3 +44,68 @@ multilevel : --> a -->param(2 param)-->b(1 param)-->c()defult->
 
 && operaotr overload --> 2 user age same ....
 
+📌 10 Practice Problems (Easy → Medium)
+🔹 Easy
+
+Reverse a String (using at())
+
+Input a string and print its reverse by accessing characters with at().
+
+Check Palindrome (using front() and back())
+
+Check if a word reads the same forwards and backwards.
+
+Use front() and back() in each iteration.
+
+Count Vowels (using size() and at())
+
+Count how many vowels (a,e,i,o,u) are in the string.
+
+🔹 Medium
+
+Capitalize Middle Character (using at())
+
+If the string length is odd, convert the middle character to uppercase.
+
+Example: "hello" → "heLlo".
+
+Insert Separator (using insert())
+
+Input: "abcdef", Output: "a-b-c-d-e-f"
+
+Insert "-" between every two characters.
+
+Remove Extra Spaces (using erase())
+
+Input: "I love C++"
+
+Output: "I love C++"
+
+Erase consecutive spaces until only one remains.
+
+Replace Word (using replace())
+
+Input: "I like Java"
+
+Replace "Java" with "C++".
+
+🔹 Challenging Medium
+
+Trim String (using erase() and size())
+
+Input: " hello world "
+
+Remove leading and trailing spaces manually.
+
+Dynamic Buffer Test (using capacity())
+
+Start with an empty string. Keep appending characters (append() or push_back()) one by one.
+
+Print size() and capacity() after each step to observe capacity doubling behavior.
+
+Clear After Use
+
+Input a sentence. Process it (for example: count vowels).
+
+Then call clear() and confirm by checking empty().
+
