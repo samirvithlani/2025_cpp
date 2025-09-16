@@ -64,7 +64,6 @@ Count how many vowels (a,e,i,o,u) are in the string.
 🔹 Medium
 
 Capitalize Middle Character (using at())
-
 If the string length is odd, convert the middle character to uppercase.
 
 Example: "hello" → "heLlo".
