@@ -237,3 +237,8 @@ insert
 erase
 replace
 clear
+
+
+Templates:
+function Templates
+class Templates
