@@ -28,5 +28,8 @@ int main(){
     cout<<"\n ans = "<<c3.add("64","1");
     //cout<<"\n ans = "<<c3.add(64,1); error..
 
+    // Calc<auto> c4;
+    // //cout<<"\n ans2 = "<<c4.add(10,20);
+    // cout<<"\n ans2 = "<<c4.add("raj","jay");
 
 }
