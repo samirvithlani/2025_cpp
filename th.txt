@@ -242,3 +242,30 @@ clear
 Templates:
 function Templates
 class Templates
+function create:
+cpp ,c -->array -->size -->5 -->0,4
+10
+
+STL: function implment
+major 4 components:
+
+1)containers  data stru which stores data   vector,list,map,set,queue...
+2)Algo         udf function for search sorting      
+3)Iterators objets 
+4)functions ....
+
+
+
+1)containers:
+vector  --> dynamic array:
+dequeu - -->duble ended queue
+list --> dounly linked list
+fl-->single linked
+set-->
+
+
+vector:
+1)vector is dynamic
+2)vector is template class --> int string,...
+3)vector is iterable --> loop data iterate...
+4)vector is subsciptable --> single elm

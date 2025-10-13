@@ -33,3 +33,10 @@ int main(){
     // cout<<"\n ans2 = "<<c4.add("raj","jay");
 
 }
+
+
+//print(sp,ep){
+// loop
+// buitin function string --> int
+//}
+
