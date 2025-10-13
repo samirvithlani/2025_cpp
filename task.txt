@@ -108,3 +108,30 @@ Input a sentence. Process it (for example: count vowels).
 
 Then call clear() and confirm by checking empty().
 
+
+
+please enter your choice : press 1 for cont, and 0 for exit
+1
+please enter numner:100
+please enter your choice : press 1 for cont, and 0 for exit
+1
+please enter numner:200
+please enter your choice : press 1 for cont, and 0 for exit
+0
+
+
+loop:..
+
+
+
+enter user name or exit
+enter name : ajay
+enter name : raj
+vector push...
+enter name : exit --> break
+
+vector declate string<> -->raj,simt,amimsas.mxpasskms
+
+please enter name to delete : sumit... remove...
+
+
