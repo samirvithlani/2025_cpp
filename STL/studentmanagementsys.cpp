@@ -30,17 +30,36 @@ int main(){
     //1st stu object
     Student s1(18,"ram",101);
     Student s2(19,"seeta",102);
+    Student s4(21,"seeta",105);
     Student s3(18,"neha",103);
 
     stu.push_back(s1); //ram...
     stu.push_back(s2); //seeta..
     stu.push_back(s3);
+    stu.push_back(s4);
     stu.push_back(Student(21,"jay",104));
 
     //for(int i:stu)
     //1 -->s == s1
     //2 -->s == s2
     //3 --s == s3
+
+    //seeta remove.. 
+    string dname = "seeta";
+    //bool found = false;
+
+    for(int i=0;i<stu.size();i++){
+
+        if(stu[i].sname == dname){
+            stu.erase(stu.begin()+i);
+            cout<<"\n seeta object removed successfully !!";
+      ///      found = true;
+                break;            
+        }
+
+    }
+
+
     for(Student s:stu){
         cout<<"\n student name = "<<s.sname;
         cout<<"\n student age = "<<s.sage;
