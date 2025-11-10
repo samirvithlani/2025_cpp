@@ -269,3 +269,27 @@ vector:
 2)vector is template class --> int string,...
 3)vector is iterable --> loop data iterate...
 4)vector is subsciptable --> single elm
+
+
+
+--------------------------------
+enter choice press 1 for cont... 0 for exit
+
+if press 1 
+please enter your rollno
+please enter your marks
+                                    add data in map -- key will rollno and value will be marks
+enter choice press 1 for cont... 0 for exit
+
+if press 1 
+please enter your rollno
+please enter your marks
+
+
+if press 0
+
+print map..
+
+
+
+
