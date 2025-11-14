@@ -34,5 +34,4 @@ int main(){
         cout<<"\n"<<prod.first<<"-"<<prod.second.id<<"-"<<prod.second.name;
     }
 
-
 }
