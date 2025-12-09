@@ -26,7 +26,22 @@ int main(){
     });
     cout<<"\n all "<<all;
 
+    
+//    vector<int> v={100,20,34,56,78,120,1,24,54};
+    //lower_bound
 
+       vector<int> v4={10,20,30,40,50};
+    auto it = lower_bound(v4.begin(),v4.end(),30); //>=
+    cout<<"\n --->"<<(it - v4.begin()); //index
+    cout<<"\n -->"<<*it;
+
+    auto it2 = upper_bound(v4.begin(),v4.end(),31); //>
+    cout<<"\n --->"<<(it2 - v4.begin()); //index
+    cout<<"\n -->"<<*it2;
+
+
+    //remove..
+    //remove(v.begin,v.end,2)
 
 
 }

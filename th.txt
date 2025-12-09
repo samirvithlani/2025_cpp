@@ -291,5 +291,9 @@ if press 0
 print map..
 
 
+STL:
+queue
+FIFO first in first out
+
 
 
