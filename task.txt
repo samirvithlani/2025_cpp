@@ -147,3 +147,55 @@ declare another vector same for string
 from user vector check palindrome name if name is palindrome store in other vecotr..
 
 
+Task 3: Online Food Order System
+
+Problem:
+A restaurant prepares orders in the order received.
+
+Requirements:
+
+Insert food orders into a queue.
+
+Process each order.
+
+Show which order is being prepared.
+
+Real-Life Use: Zomato / Swiggy logic
+
+---------------------------------------------------
+1. Traffic Signal Simulation Using Queue
+
+🧠 Cars arrive at a signal and pass when the light is green.
+
+✅ Features
+
+Cars enter a queue
+
+Only 3 cars pass per green signal
+
+Remaining cars wait for next signal
+
+--------------------------------------
+2. Game Player Turn System (Round-Based)
+
+🧠 Players take turns in order. After a turn, they go to the back again.
+
+✅ Features
+
+Circular queue behavior
+
+Turns keep rotating
+
+Simulates a multiplayer game
+-------------------------------------------
+3. Hospital Emergency Queue System
+
+🧠 Normal patients go in queue. Emergency patients go to the front (using two queues).
+
+✅ Features
+
+Normal queue
+
+Emergency queue
+
+Emergency patients served first
