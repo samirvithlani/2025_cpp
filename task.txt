@@ -199,3 +199,8 @@ Normal queue
 Emergency queue
 
 Emergency patients served first
+
+
+
+cretae zomato orders by distance:
+farest distance is heighrst priority to deliver..
